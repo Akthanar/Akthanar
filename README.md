@@ -2,7 +2,7 @@
 
 
       Game Designer (junior)
-      Unity Programmer (junior / mid-level)
+      Unity Programmer (mid-level)
 
 - Something about me
 
