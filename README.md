@@ -2,14 +2,14 @@
 
 
       Game Designer (junior)
-      Unity Programmer (mid-level)
+      Unity Programmer (mid)
 
 - Something about me
 
       int _currentAge = 27;
       static int born = 1995;
       string realName = "Luca";
-      string nickName = "Akthanar";
+      string userName = "Akthanar";
 
 - if (you want contact me)
 
