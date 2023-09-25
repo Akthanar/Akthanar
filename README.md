@@ -6,7 +6,7 @@
 
 - Something about me
 
-      int _currentAge = 27;
+      int _currentAge = 28;
       static int born = 1995;
       string realName = "Luca";
       string userName = "Akthanar";
@@ -14,7 +14,7 @@
 - if (you want contact me)
 
       var work_email = programmatore.unity@gmail.com
-      var personal_email = antonioli.luca@gmail.com
+      var personal_email = akthanar@gmail.com
       var telegram = t.me/ProgrammatoreUnity
 
 
