@@ -15,7 +15,7 @@
 
       var work_email = programmatore.unity@gmail.com
       var personal_email = akthanar@gmail.com
-      var telegram = t.me/ProgrammatoreUnity
+      var telegram = t.me/ProgrammatoreUnityBot
 
 
 
