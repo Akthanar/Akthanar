@@ -13,8 +13,7 @@
 
 - if (you want contact me)
 
-      var work_email = programmatore.unity@gmail.com
-      var personal_email = akthanar@gmail.com
+      var email = programmatore.unity@gmail.com
       var telegram = t.me/ProgrammatoreUnityBot
 
 
